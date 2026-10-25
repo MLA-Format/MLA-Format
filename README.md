@@ -10,6 +10,11 @@ Across personal and academic projects, I’ve taken on roles ranging from projec
 
 ## Skills
 
+<p>
+  <a href="#skills"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></a>
+</p>
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
