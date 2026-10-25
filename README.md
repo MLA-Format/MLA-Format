@@ -12,20 +12,20 @@ Across personal and academic projects, I’ve taken on roles ranging from projec
 
 **Languages**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#skills)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#skills)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](#skills)
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](#skills)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#skills)
+[![Python](https://img.shields.io/badge/Python-faf4ed?style=flat&logo=python&logoColor=b4637a)](#skills)
+[![Java](https://img.shields.io/badge/Java-faf4ed?style=flat&logo=openjdk&logoColor=b4637a)](#skills)
+[![PHP](https://img.shields.io/badge/PHP-faf4ed?style=flat&logo=php&logoColor=b4637a)](#skills)
+[![C](https://img.shields.io/badge/C-faf4ed?style=flat&logo=c&logoColor=b4637a)](#skills)
+[![JavaScript](https://img.shields.io/badge/JavaScript-faf4ed?style=flat&logo=javascript&logoColor=b4637a)](#skills)
 
 **Databases**
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#skills)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#skills)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)](#skills)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-faf4ed?style=flat&logo=postgresql&logoColor=286983)](#skills)
+[![MySQL](https://img.shields.io/badge/MySQL-faf4ed?style=flat&logo=mysql&logoColor=286983)](#skills)
+[![MongoDB](https://img.shields.io/badge/MongoDB-faf4ed?style=flat&logo=mongodb&logoColor=286983)](#skills)
 
 **Tools**
 
-[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft&logoColor=white)](#skills)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#skills)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#skills)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-faf4ed?style=flat&logo=microsoft&logoColor=907aa9)](#skills)
+[![Git](https://img.shields.io/badge/Git-faf4ed?style=flat&logo=git&logoColor=907aa9)](#skills)
+[![Docker](https://img.shields.io/badge/Docker-faf4ed?style=flat&logo=docker&logoColor=907aa9)](#skills)
